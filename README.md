@@ -8,12 +8,6 @@ This repository contains the implementation and evaluation of a **ResNet-18** mo
 - `report.tex` - LaTeX report detailing the methodology, implementation, and results.
 - `images/` - Directory containing dataset visualizations, training metrics, and predictions.
 
-## Installation
-To set up the environment, install the required dependencies:
-```sh
-pip install -r requirements.txt
-```
-
 ## Running the Notebook
 To train and evaluate the model, open and run all cells in the Jupyter Notebook. The notebook contains configurable constants that allow you to modify dataset paths, batch sizes, number of epochs, and other hyperparameters:
 ```sh
