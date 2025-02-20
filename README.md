@@ -5,7 +5,7 @@ This repository contains the implementation and evaluation of a **ResNet-18** mo
 
 ## Repository Structure
 - `ResNet18.ipynb` - Jupyter Notebook containing the implementation, training, and evaluation of the model.
-- `report.tex` - LaTeX report detailing the methodology, implementation, and results.
+- `report.pdf` - Report detailing the methodology, implementation, and results.
 - `images/` - Directory containing dataset visualizations, training metrics, and predictions.
 
 ## Running the Notebook
@@ -15,8 +15,8 @@ jupyter notebook ResNet18.ipynb
 ```
 
 ## Results
-- **Precision**: 0.9370
-- **Recall**: 0.9284
-- **F1-score**: 0.9306
+- **Precision**: 0.9399
+- **Recall**: 0.9316
+- **F1-score**: 0.9348
 
-The final trained model achieved **93.35%** validation accuracy. See `report.tex` for detailed analysis.
+The final trained model achieved **93.31%** validation accuracy. See `report.tex` for detailed analysis.
