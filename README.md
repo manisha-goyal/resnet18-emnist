@@ -4,9 +4,8 @@
 This repository contains the implementation and evaluation of a **ResNet-18** model for classifying handwritten digits (0-9) and uppercase letters (A-Z) using the **EMNIST dataset**. The model is trained and tested on preprocessed data and evaluated using key performance metrics.
 
 ## Repository Structure
-- `ResNet18.ipynb` - Jupyter Notebook containing the implementation, training, and evaluation of the model.
-- `report.pdf` - Report detailing the methodology, implementation, and results.
-- `images/` - Directory containing dataset visualizations, training metrics, and predictions.
+- `ResNet18_EMNIST.ipynb` - Jupyter Notebook containing the implementation, training, and evaluation of the model.
+- `ResNet18_EMNIST.pdf` - Report detailing the methodology, implementation, and results.
 
 ## Running the Notebook
 To train and evaluate the model, open and run all cells in the Jupyter Notebook. The notebook contains configurable constants that allow you to modify dataset paths, batch sizes, number of epochs, and other hyperparameters:
